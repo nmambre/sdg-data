@@ -1,0 +1,7 @@
+indicator_name: Unemployment rate, by sex, age and persons with disabilities
+indicator_number: 8.5.2
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
+source_url_1: "https://www.cbs.cw/labour"
+reporting_status: complete
